@@ -23,7 +23,6 @@
         </v-toolbar>
     </span>
 </template>
-
 <script>
 export default {
     name: 'AppNavigation',
@@ -43,4 +42,4 @@ export default {
 </script>
 
 <style scoped>
-</style
+</style>
